@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+  	<item android:id="@+id/id1" android:title="Bonjour !"/>
+  	<item android:id="@+id/id2" android:title="Au revoir"/>
+  	<item android:id="@+id/id3" android:title="Salut"/>
+  	<item android:id="@+id/id4" android:title="Pouet"/>
+ </menu>

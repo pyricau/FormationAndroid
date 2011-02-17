@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MyToastActivity!</string>
+    <string name="l_button1">click me!</string>
+    <string name="l_button2">recherche !</string>
+    <string name="app_name">my toast</string>
+    <string name="l_toast1">Toasty!!</string>
+    <string name="l_toast2">Toasty le retour!!</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monkey1">I have a big monkey</string>
+    <string name="monkey2">I have a little monkey</string>
+    <string name="app_name">Dessinez</string>
+    <string name="title2">welcome to monkey island</string>
+    <string name="b_button1">monkey size</string>
+    <string name="b_button2">change title</string>
+    
+</resources>

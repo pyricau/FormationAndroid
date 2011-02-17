@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MyWebActivity!</string>
+    <string name="l_bt1">click me!</string>
+    <string name="app_name">my web project</string>
+</resources>

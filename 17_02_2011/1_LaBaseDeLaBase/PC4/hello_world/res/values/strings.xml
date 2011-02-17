@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello Android World!</string>
+    <string name="app_name">hello world!!</string>
+    <string name="other_line">hello world once again</string>
+</resources>
