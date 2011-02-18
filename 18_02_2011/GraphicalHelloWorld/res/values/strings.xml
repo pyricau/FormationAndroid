@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, HelloWorld!</string>
+    <string name="app_name">GraphicHelloWorld</string>
+    <string name="buttonSexy">"Click me, I'm momo"</string>
+    <string name="basic">Gaaaaaaaaaaaaaa</string>
+</resources>
