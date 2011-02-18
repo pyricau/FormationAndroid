@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">UIAndroid</string>
+    <string name="editText"></string>
+    <string name="buttonA1">"Envoyer texte"</string>
+    <string name="buttonA2">"Appeler"</string>
+    <string name="textViewA2">"Texte non reçu"</string>
+    <string name="textViewA1">"http://google.com"</string>
+</resources>
