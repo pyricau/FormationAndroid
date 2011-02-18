@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Toasts</string>
+    <string name="mainTextString">Hello World, MainActivity!</string>
+    <string name="mainButtonString">Main button</string>
+</resources>

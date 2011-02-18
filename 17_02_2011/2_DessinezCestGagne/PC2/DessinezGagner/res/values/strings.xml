@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DessinezGagner</string>
+    <string name="mainButtonLabel">Go !</string>
+    <string name="sexyButtonLabel">Click me, I\'m sexy!</string>
+    <string name="linksText">www.google.com www.excilys.com</string>
+</resources>
