@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toast">ClasseToast!</string>
+    <string name="app_name">myApplication</string>
+    <string name="button">Afficher</string>
+</resources>

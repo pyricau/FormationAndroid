@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txtview">Mon application</string>
+    <string name="hello">Hello</string>
+    <string name="app_name">Dessin</string>
+    <string name="button1">Bouton de l\'activité 1</string>
+    <string name="button2">Bouton de l\'activité 2</string>
+	<string name="et">0123456789</string>
+</resources>
+
