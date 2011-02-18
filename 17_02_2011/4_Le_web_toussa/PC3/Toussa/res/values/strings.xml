@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ClasseOueb!</string>
+    <string name="app_name">Oueb</string>
+    <string name="service">Activer service</string>
+    
+</resources>
