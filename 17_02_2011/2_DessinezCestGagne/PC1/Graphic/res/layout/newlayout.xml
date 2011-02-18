@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent" android:orientation="vertical">
+    <TextView android:layout_width="match_parent" android:text="Graphic" android:layout_height="wrap_content" android:id="@+id/textView1"></TextView>
+    <Button android:layout_width="match_parent" android:text="clic" android:id="@+id/button1" android:layout_height="wrap_content"></Button>
+    <Button android:layout_width="match_parent" android:text="clic2" android:id="@+id/button2" android:layout_height="wrap_content"></Button>
+</LinearLayout>
